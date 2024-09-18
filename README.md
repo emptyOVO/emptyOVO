@@ -3,7 +3,6 @@
 *  😄 i'm GaoYifei, a software engineering undergraduate student at Fuzhou University, China.
 *  🌱 I'm currently learning Java, Golang, Artificial Intelligence ....
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=emptyOVO&repo=emptyOVO)](https://github.com/emptyOVO/emptyOVO)
 ## Activity
 <div>
  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=emptyOVO&count_private=true&show_icons=true&bg_color=00000000&hide_title=true&show_icons=true&line_height=21" />
