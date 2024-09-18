@@ -5,7 +5,7 @@
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 
 ## My contributions
- <!--<img src="https://github-readme-stats.vercel.app/api?username=emptyOVO&show_icons=true&hide_border=true&hide_title=false"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emptyOVO&hide_border=true&layout=compact&hide_title=false">-->
+ <img src="https://github-readme-stats.vercel.app/api?username=emptyOVO&show_icons=true&hide_border=true&hide_title=false"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emptyOVO&hide_border=true&layout=compact&hide_title=false">
 
 
 
