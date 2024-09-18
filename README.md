@@ -1,14 +1,15 @@
-### Hi there 👋
+## Hi there 👋
 
 *  😄 i'm GaoYifei, a software engineering undergraduate student at Fuzhou University, China.
 *  🌱 I'm currently learning Java, Golang, Artificial Intelligence ....
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 ## Activity
-<div>
- <img height="150px" src="https://github-readme-stats.vercel.app/api?username=emptyOVO&count_private=true&show_icons=true&bg_color=00000000&hide_title=true&show_icons=true&line_height=21" />
- <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emptyOVO&layout=compact&hide_title=true&show_icons=trueline_height=21" />
 
-</div>
+ <img height="150px" src="https://github-readme-stats.vercel.app/api?username=emptyOVO&count_private=true&show_icons=true&bg_color=00000000&hide_title=true&show_icons=true&line_height=21" />
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emptyOVO)](https://github.com/emptyOVO/github-readme-stats)
+
+
+
 <!--
 **emptyOVO/emptyOVO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
