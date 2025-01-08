@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-*  😄 i'm GaoYifei, a software engineering undergraduate student at Fuzhou University, China.
-*  🌱 I'm currently learning Java, Golang, Artificial Intelligence ....
+*  😄 I'm GaoYifei, a software engineering undergraduate student at Fuzhou University, China.
+*  🔭 Committer in Apache InLong.
+*  🌱 Currently learning Java, Golang, Distributed technology ....
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 ## Activity
 
