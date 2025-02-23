@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 *  😄 I'm GaoYifei, a software engineering undergraduate student at Fuzhou University, China.
-*  🔭 [@Apache InLong](https://site.west2.online/) Committer. [@west2-online](https://site.west2.online/) Team leader
+*  🔭 [@Apache InLong](https://github.com/apache/inlong) Committer. [@west2-online](https://site.west2.online/) Team leader
 *  🌱 Currently learning Java, Golang, Distributed technology ....
 *  💬 Contact with me: yifeigao@apache.org
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
